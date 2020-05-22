@@ -1,0 +1,6 @@
+{
+  "compara":[
+    ["item A", "item C", "item B"],
+    ["item A", "item B", "item C"]
+  ]
+}
