@@ -37,7 +37,6 @@ O CPF de entrada pode ou não conter pontuações.
 ### 2 - /compara/jsons
 
 Esta rota recebe um json contendo N listas e retorna uma lista contendo os itens únicos.
-
 Um item será classificado como único se ele não for encontrado em nenhuma outra lista.
 
 Exemplo de entrada:
@@ -64,7 +63,6 @@ Caso não haja nenhum item único, a rota retorna uma lista vazia: `"unicos": []
 ## 3 - /compara/arquivos
 
 Esta rota recebe N arquivos e retorna um arquivo contendo a lista de itens únicos.
-
 Um item será classificado como único se ele não for encontrado em nenhum outro arquivo.
 
 Exemplos de entrada:
